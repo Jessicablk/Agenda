@@ -1,0 +1,9 @@
+﻿body {
+    /* Margin bottom by footer height */
+    background-image: url('../img/ag.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    margin-bottom: 60px;
+    background-color: #000;
+}
